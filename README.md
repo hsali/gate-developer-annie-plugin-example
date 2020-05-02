@@ -1,4 +1,5 @@
-# Gate Embedded Example 
+# Gate Embedded with Annie based plugin Example 
+
 
 
 Flow 
